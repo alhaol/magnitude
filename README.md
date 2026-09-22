@@ -1,3 +1,9 @@
+> **Fork notice**
+> This is [alhaol](https://github.com/alhaol)'s fork of
+> [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude).
+> Maintained for personal development and experimentation.
+> Upstream remains the canonical source.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/brand/icon-dark.svg">
